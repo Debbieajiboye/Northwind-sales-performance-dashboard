@@ -6,6 +6,10 @@ This project analyses the Northwind sales dataset to understand overall sales pe
 
 The data was transformed and modelled in Power BI, with DAX measures used to calculate key performance indicators and create an interactive dashboard for exploring business performance.
 
+## 📊 Dashboard Preview
+
+![Northwind Sales Performance Dashboard](Northwind-dashboard.png)
+
 ## Business Questions
 
 The dashboard was designed to answer questions such as:
