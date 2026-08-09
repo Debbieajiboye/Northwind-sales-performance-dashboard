@@ -21,6 +21,20 @@ The dashboard was designed to answer questions such as:
 - Which countries are the strongest markets?
 - How does revenue change over time?
 
+## 🗄️ SQL Analysis
+
+SQL was used to explore and analyse the Northwind database before developing the Power BI dashboard.
+
+The analysis was organised into five areas:
+
+- **Database Exploration** – explored the database structure and key fields to understand the available data.
+- **Customer Analysis** – analysed customer purchasing behaviour and identified high-value customers.
+- **Sales Analysis** – examined overall sales performance, revenue patterns and sales trends.
+- **Product Analysis** – evaluated product and category performance to identify key revenue contributors.
+- **Employee Analysis** – compared employee sales performance and contribution to revenue.
+
+The SQL scripts used for the analysis are included in this repository.
+
 ## Key Performance Indicators
 
 - **Total Revenue:** $1.27M
